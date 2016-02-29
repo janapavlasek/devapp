@@ -22,7 +22,7 @@ public class DevBotHome extends AppCompatActivity implements View.OnClickListene
 
     TextView mainTextView, responseTextView;
     RequestQueue queue;
-    String url ="http://192.168.0.110:5000/";
+    String url ="http://192.168.0.115:5000/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
